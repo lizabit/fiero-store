@@ -6,3 +6,11 @@ html {
 body {
   font-weight: bold;
 }
+
+button {
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid blue;
+}
