@@ -1,3 +1,3 @@
 # fiero-store
 
-Fork this project for use in the Git/Github course hosted on Fiero Code.
+Fork this project to use it with your exercises in the Git/Github course hosted on Fiero Code.
