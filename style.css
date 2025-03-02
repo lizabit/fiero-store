@@ -7,10 +7,14 @@ html {
 }
 
 a {
-  background-color: magenta;
+  background-color: red;
   color: white;
   font-weight: bold;
   padding: 10px;
   border-radius: 5px;
   border: none;
+}
+
+.product-image {
+  margin-top: 25px;
 }
