@@ -17,4 +17,5 @@ a {
 
 .product-image {
   margin-top: 25px;
+  filter: hue-rotate(180deg);
 }
